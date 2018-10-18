@@ -12,3 +12,4 @@ You will need the folloowing software for this to work:
 - CWIID      ---  sudo apt install python-cwiid
 
 PLEASE NOTE: Bluetooth is also required for this to work.
+### NOTE: This code will not work with python 3 ye.t###
